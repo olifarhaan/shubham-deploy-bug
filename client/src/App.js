@@ -50,6 +50,7 @@ import Asterisk from "./pages/offerings/voip/Asterisk.js";
 import Kamailio from "./pages/offerings/voip/Kamailio.js";
 import OpenSips from "./pages/offerings/voip/OpenSips.js";
 import WebRTc from "./pages/offerings/voip/WebRTc.js";
+import IosDevelopers from "./pages/HireDevelopers/IosDevelopers.js";
 
 function App() {
   return (
