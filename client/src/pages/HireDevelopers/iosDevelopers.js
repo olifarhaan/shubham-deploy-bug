@@ -7,7 +7,6 @@ import AyanshtechAdvantage from "../../components/AyanshtechAdvantage.js";
 
 const IosDevelopers = () => {
   const [activeIndex, setActiveIndex] = useState(null);
-  console.log("Name fixed");
   const toggleFAQ = (index) => {
     setActiveIndex(index === activeIndex ? null : index);
   };

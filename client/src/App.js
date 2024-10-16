@@ -17,7 +17,6 @@ import AWSCertifiedEngineers from "./pages/HireDevelopers/AWSCertifiedEngineers.
 import AWSMigrationEngineers from "./pages/HireDevelopers/AWSMigrationEngineers.js";
 import DevOpsEngineers from "./pages/HireDevelopers/DevOpsEngineer.js";
 import FreeSwitchDevelopers from "./pages/HireDevelopers/FreeSwitchDevelopers.js";
-import IosDevelopers from "./pages/HireDevelopers/IosDevelopers.js";
 import KamailioDevelopers from "./pages/HireDevelopers/KamailioDeveloper.js";
 import L2L2SupportEngineers from "./pages/HireDevelopers/L2L3SupportEngineers.js";
 import LaravelDevelopers from "./pages/HireDevelopers/LaravelDevelopers.js";
